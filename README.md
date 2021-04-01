@@ -9,3 +9,8 @@ ilk websitesi yapıldı
 
 
 
+### Odev-2
+```
+Kişisel Sayfamızı Detaylandırıldı
+```
+
