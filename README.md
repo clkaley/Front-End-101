@@ -1,8 +1,4 @@
-# Front-End-101
-
-
-
-## Odevler
+# Front-End-101 Odevler
 
 
 
