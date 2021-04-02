@@ -4,8 +4,13 @@
 
 ### Odev-1
 ```
-ilk websitesi yapıldı
+Kişisel sayfa yapıldı.
 ```
 
 
+
+### Odev-2
+```
+Kişisel Sayfa Detaylandırıldı.
+```
 
