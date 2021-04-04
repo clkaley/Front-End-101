@@ -14,3 +14,10 @@ Kişisel sayfa yapıldı.
 Kişisel Sayfa Detaylandırıldı.
 ```
 
+
+### Calisma-1
+```
+Videoları takip ederek oluşturulan proje
+```
+
+
