@@ -1,0 +1,44 @@
+body {
+    background-color: #F2F2F2;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    text-decoration: none;
+    color: #C19185;
+    font-weight: bold;
+}
+
+p {
+    font-size: 17px;
+    color: #8D7688;
+}
+
+h1,
+h3 {
+    color: #725368;
+    text-align: center;
+}
+
+h2 {
+    color: #725368;
+}
+
+.navbar {
+    text-align: center;
+}
+
+.navbar ul li {
+    font-size: 18px;
+    line-height: 50px;
+    cursor: pointer;
+    list-style: none;
+    display: inline-block;
+    padding: 15px 15px;
+}
+
+ul li {
+    color: #725368;
+    text-align: center;
+    list-style-position: inside;
+}
