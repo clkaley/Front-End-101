@@ -20,6 +20,12 @@ Kişisel Sayfa Detaylandırıldı.
 Videoları takip ederek oluşturulan proje
 ```
 
+### Odev-3
+```
+Google Ana Sayfasını Tasarlamak
+```
+
+
 
 
 ### CSS-1
