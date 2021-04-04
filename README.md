@@ -21,3 +21,9 @@ Videoları takip ederek oluşturulan proje
 ```
 
 
+
+### CSS-1
+```
+HTML ve CSS kullanılarak oluşturulan site
+```
+
