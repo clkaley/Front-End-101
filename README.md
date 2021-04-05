@@ -33,3 +33,9 @@ Google Ana Sayfasını Tasarlamak
 HTML ve CSS kullanılarak oluşturulan site
 ```
 
+
+### CSS-2
+```
+Google Ana Sayfasını Tasarlamak
+```
+
