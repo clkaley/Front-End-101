@@ -1,0 +1,141 @@
+/*global*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #70757a;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+/*header*/
+
+.header {
+    text-align: right;
+    height: 250px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.header-list-left li {
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 30px;
+    float: left;
+}
+
+.header-list-right li {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+
+/*content*/
+
+.content {
+    text-align: center;
+}
+
+input {
+    width: 480px;
+    height: 25px;
+    border-radius: 20px;
+    font-size: 18px;
+    color: black;
+    font-weight: lighter;
+    border: 1px solid #9aa0a6;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+input:focus {
+    outline: none;
+}
+
+#text-1 {
+    background-image: url('/img/voicelogo.png');
+    background-position: right;
+    padding-left: 30px;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+}
+
+.buton {
+    text-align: center;
+}
+
+button {
+    font-family: Arial;
+    color: #5f6368;
+    border: 1px solid #f2f2f2;
+    font-size: 14px;
+    height: 40px;
+    padding: 10px 10px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+
+button:focus {
+    outline: none;
+}
+
+#container {
+    height: 355px;
+}
+
+
+/*Footer*/
+
+.footer {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #dfe1e5;
+    border-top: 1px solid #dadce0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 10px;
+    background-color: #f2f2f2;
+}
+
+.footer-l {
+    float: left;
+}
+
+.footer-l a {
+    display: block;
+    color: #70757a;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 16px;
+    margin-left: 14px;
+    margin-right: -20px;
+}
+
+.footer-l a:hover {
+    text-decoration: underline;
+}
