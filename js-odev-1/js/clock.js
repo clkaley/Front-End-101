@@ -18,9 +18,13 @@ function showTime() {
     let day = showDay(d.getDay());
 
     //Eğer saat, dakika ya da saniye 10'dan küçükse başına 0'ı koyar.
-    if (hour < 10) hour = '0' + hour;
-    if (minute < 10) minute = '0' + minute;
-    if (second < 10) second = '0' + second;
+      if (hour < 10) {
+        hour = '0' + hour;
+    } else if (minute < 10) {
+        minute = '0' + minute;
+    } else if (second < 10) {
+        second = '0' + second;
+    }
 
     //ekrana bastırma
     document.querySelector("#myClock").innerHTML = hour + ":" + minute + ":" + second + " " + day;
