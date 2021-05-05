@@ -1,0 +1,33 @@
+body {
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+.navbar-brand {
+    font-size: 35px;
+    font-family: 'Bree Serif', serif;
+    font-weight: bold;
+}
+
+.bg-yellow {
+    background-color: #FFC017;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.border-bottom-light {
+    border-bottom: 1px solid rgb(143, 143, 143);
+}
+
+.text-head {
+    color: rgba(8, 8, 8, 1);
+}
+
+.aside_buttons li {
+    margin-bottom: 10px;
+}
+
+.border-top-dark {
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
