@@ -45,6 +45,11 @@ Google Ana Sayfasını Tasarlamak
 Bootstrap Özelliklerini Kullanarak Yaptığımız Siteyi Geliştirelim
 ```
 
+### Calisma-2
+```
+Bootstrap Medium Clone
+```
+
 ### Bootstrap-2
 ```
 Bootstrap Instagram Clone
